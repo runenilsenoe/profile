@@ -13,7 +13,9 @@ I speak fluent 'Microsoft Orleans' and got fullstack experience with my heavywei
 
 <div align="center">
 
-<img width="50%" alt="runenilsenoe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=runenilsenoe&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
+<img width="50%" alt="Rune's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=runenilsenoe&&theme=react-dark&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22eded&icon_color=22eded&text_color=cacaca&color=22eded&border_radius=0&count_private=true" />
+
+![Rune's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=runenilsenoe)
 
 
 </div>
